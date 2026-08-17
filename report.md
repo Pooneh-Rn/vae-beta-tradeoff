@@ -48,11 +48,11 @@ colored by digit label.
 
 | beta | Recon loss | KL loss | Interpolation confidence |
 |---|---|---|---|
-| 0.1 | 72.75 | 49.06 | 0.879 |
-| 1 | 81.18 | 24.69 | **0.889** |
-| 5 | 120.55 | 7.79 | 0.808 |
-| 20 | 195.27 | 0.47 | 0.609 |
-| 50 | 206.35 | 0.00 | 0.574 |
+| 0.1 | 72.72 | 49.14 | 0.879 |
+| 1 | 81.19 | 24.71 | **0.890** |
+| 5 | 120.57 | 7.79 | 0.809 |
+| 20 | 195.84 | 0.44 | 0.596 |
+| 50 | 206.37 | 0.00 | 0.563 |
 
 ![Reconstruction/KL and interpolation quality vs. beta](figures/beta_tradeoff.png)
 
